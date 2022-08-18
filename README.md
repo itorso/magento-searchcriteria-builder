@@ -38,7 +38,7 @@ console.log(output);
 
 ## Example output
 ```
-searchCriteria[filter_groups][0][filters][0][field]=end_date&searchCriteria[filter_groups][0][filters][0][value]=2022-08-17 14:45:00&searchCriteria[filter_groups][0][filters][0][condition_type]=lt&searchCriteria[filter_groups][0][filters][1][field]=status&searchCriteria[filter_groups][0][filters][1][value]=1&searchCriteria[filter_groups][0][filters][1][condition_type]=eq&searchCriteria[sort_orders][0][field]=created_at&searchCriteria[sort_orders][0][direction]=asc
+searchCriteria[filter_groups][0][filters][0][field]=end_date&searchCriteria[filter_groups][0][filters][0][value]=2022-08-17%2014%3A45%3A00&searchCriteria[filter_groups][0][filters][0][condition_type]=lt&searchCriteria[filter_groups][0][filters][1][field]=status&searchCriteria[filter_groups][0][filters][1][value]=1&searchCriteria[filter_groups][0][filters][1][condition_type]=eq&searchCriteria[sort_orders][0][field]=created_at&searchCriteria[sort_orders][0][direction]=asc&searchCriteria[page_size]=10&searchCriteria[current_page]=1
 ```
 
 
