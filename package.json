@@ -1,0 +1,11 @@
+{
+  "name": "searchcriteria-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "author": "@itorso",
+  "license": "MIT"
+}
